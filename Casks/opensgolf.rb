@@ -1,6 +1,6 @@
 cask "opensgolf" do
-  version "0.7.1"
-  sha256 "a7908ddc2095f2b59f86a3dd9ece8279325393a19c70e9e202a56adba64d89be"
+  version "0.7.2"
+  sha256 "0c10cef0ab4decd599c83b72bfe876bba26be6190e0866d2cfc8d5d473140c90"
 
   url "https://github.com/crspytopgn/opensgolf/releases/download/v#{version}/opensgolf-macos.zip"
   name "OpenSGolf"
